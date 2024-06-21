@@ -1,4 +1,4 @@
-About Me
+# About Me
 Hey! I'm Lavanya! 👋🏻 I'm a data scientist dedicated to finding insights in data and educating others in data analytics! Let's connect!
 
 📊 I was first introduced to the world of Data Analytics while working in the IT sector for a Fortune 500 company. Although, at that time, the term Data Science wasn’t this famous, I understood that any industry generated a lot of data and not tapping into it is a waste of valuable insights. I leveraged automation and app data to generate insights, which sparked my interest in this field.
