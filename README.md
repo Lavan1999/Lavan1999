@@ -1,19 +1,19 @@
-About ME,
 Hey! I'm Lavanya! 👋🏻
-I'm a Data Scientist and AI/ML Engineer dedicated to turning data into actionable insights and sharing knowledge in data analytics and machine learning! 📊
 
-🚀 Recently, I worked as an AI/ML Engineer at a startup, where I built intelligent systems, contributed to real-world AI projects, and collaborated with cross-functional teams to drive innovation using machine learning and deep learning.
+I'm an AI/ML Engineer passionate about building intelligent systems, turning data into actionable insights, and sharing knowledge in Artificial Intelligence and Machine Learning. 🤖📊
 
-🎓 I completed my Master’s in Data Science course at GUVI IIT-M, gaining strong theoretical and hands-on experience in Machine Learning, Deep Learning, NLP, and Data Analytics.
+🚀 Currently, I work as an AI Developer where I design and deploy production-ready AI solutions including Machine Learning models, LLM fine-tuning, and Agentic AI systems for real-world automation and compliance workflows. I collaborate with cross-functional teams to build scalable AI systems that create measurable impact.
 
-🔍 I’ve analyzed 50+ datasets and created a repository filled with real-time and live data science projects that showcase end-to-end workflows from data collection to deployment.
+🧠 I have 3.6 years of professional experience across AI/ML, Agentic AI, GenAI, and Data Analytics. My expertise includes Foundation Models (LLaMA), LoRA/QLoRA fine-tuning, RAG pipelines, NLP, prompt engineering, deep learning, and cloud deployment using AWS, Docker, and CI/CD pipelines.
 
-📚 I'm passionate about continuous learning. I actively take part in online courses, challenges on HackerRank, and build personal projects to keep sharpening my skills.
+🎓 I completed my Master’s in Data Science at GUVI (IIT-M), gaining strong theoretical and hands-on experience in Machine Learning, Deep Learning, NLP, and advanced AI systems.
 
-🙌 A bit about me: I'm proactive and always ask, "What can I do to help and improve?" when faced with challenges. I love working in teams, brainstorming innovative solutions, and implementing ideas that create impact. I also believe in sharing knowledge and uplifting those around me.
+📚 I'm passionate about continuous learning. I actively explore new advancements in LLMs, multi-agent AI systems, and real-world AI deployment while mentoring and sharing knowledge with the community.
+
+🙌 A bit about me: I'm proactive and always ask, "What can I do to improve this system?" I enjoy brainstorming innovative AI solutions, working collaboratively, and implementing ideas that automate processes and solve real business problems. I strongly believe in building impactful AI and uplifting those around me.
 
 💬 Message me to chat about:
-• Breaking into Data Science/ML
-• Learning resources and career guidance
-• Staying motivated while self-learning
-• Building real-world AI/ML projects
+• Agentic AI & LLM Engineering
+• Breaking into AI/ML
+• Building production-ready AI systems
+• Career growth in GenAI
